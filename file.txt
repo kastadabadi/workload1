@@ -1,4 +1,0 @@
-"AadClientId": "2270e7ba-416f-4ae0-9734-62d903e67694",
-  "AadSecret": "1j48Q~Uz57qNFnrJ4u-OTrDwkR5SWY0_QcJ6naTh",
-  "AadTenantDomain": "cloudloungeit.onmicrosoft.com",
-  "AadTenantId": "c7dc93d6-a596-4a1e-a96c-0e46a6216f97",
